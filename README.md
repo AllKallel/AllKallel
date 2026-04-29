@@ -40,13 +40,13 @@ Atualmente continua estudando **Java** e explorando o ecossistema **Spring Boot*
 ---
 
 ### Projetos
+
+**Sistema de Registro**
  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
- 
- **Sistema de Registro**
   https://github.com/AllKallel/RegistrationSystem/blob/main/src/Registration/RegistrationMongoApp.java
-- Se quiser, pode colocar um **banner visual** no topo (feito no Canva ou Figma) para dar identidade ao perfil.
+- Faz um utiliza o Java SWING para criar as interfaces visuais, java orientado a objetos para o Back-End e MongoDB como bancom de dados. 
 
 
 <!---
