@@ -8,7 +8,7 @@ Ainda não sou formado, mas tão logo quero fazê-lo e realmente transformar Jav
 
 Atualmente continua estudando **Java** e explorando o ecossistema **Spring Boot**.
 
-## 💻 Tecnologias que domino
+## 💻 Tecnologias
 
 ### Back-end
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -48,7 +48,7 @@ Atualmente continua estudando **Java** e explorando o ecossistema **Spring Boot*
  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
  
   https://github.com/AllKallel/RegistrationSystem/blob/main/src/Registration/RegistrationMongoApp.java
-- Faz um utiliza o Java SWING para criar as interfaces visuais, java orientado a objetos para o Back-End e MongoDB como bancom de dados. 
+- Faz um utiliza o Java SWING para criar as interfaces visuais, java orientado a objetos para o Back-End e MongoDB como bancom de dados. Além de Git e GitHub para o versionamento do projeto.
 
 
 <!---
