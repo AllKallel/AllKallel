@@ -33,9 +33,6 @@ Atualmente continua estudando **Java** e explorando o ecossistema **Spring Boot*
 - Boas práticas de arquitetura de software
 - Inglês
 
-## 🤝 Colaborações
-Busco contribuir em projetos **Java** e compartilhar conhecimento com a comunidade.
-
 ## 📫 Contato
 - ✉️ Email: allanramos2912@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/allan-ramos2912)
