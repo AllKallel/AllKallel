@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou Allan Ramos (@AllKallel)
 
 ## 🚀 Sobre mim
+Tenho 33 anos, sou pai do Kallel e Atualmente trabalho como Analista de Suporte Pleno. 
+
 Sou apaixonado por tecnologia e desenvolvimento de software, além das possibilidades de resolução de problemas que esse mundo nos possibilita. Nem sempre foi assim, mas quando escolhi entrar no curso de Analise e Desenvolvimento de Sistemas (na instituição de ensido UNIPAC UBERLÂNDIA) uma chave virou. 
 Ainda não sou formado, mas tão logo quero fazê-lo e realmente transformar Java, no meu mundo"
 
