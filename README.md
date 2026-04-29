@@ -37,7 +37,12 @@ Atualmente continua estudando **Java** e explorando o ecossistema **Spring Boot*
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Metodologias àgeis
-https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrum&logoColor=white
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrum&logoColor=white)
+
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+
+![Extreme Programming (XP)](https://img.shields.io/badge/Extreme%20Programming-6A1B9A?style=for-the-badge&logo=xp&logoColor=white)
 
 ## 🌱 Em aprendizado
 - Spring Boot avançado  
