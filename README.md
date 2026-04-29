@@ -42,6 +42,7 @@ Atualmente continua estudando **Java** e explorando o ecossistema **Spring Boot*
 ### Projetos
 
 **Sistema de Registro**
+
  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
