@@ -45,10 +45,11 @@ Busco contribuir em projetos **Java** e compartilhar conhecimento com a comunida
 - 🔗 [LinkedIn](https://www.linkedin.com/in/allan-ramos2912)
 
 ---
-<!---
-⭐ **Dica extra:**  
-- Adicione **badges** (ex.: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)) para destacar suas tecnologias.  
-- Inclua uma seção de **projetos em destaque** com links diretos para os repositórios mais importantes.  
+
+⭐ 
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white))
+ **Sistema de Registro**
+  https://github.com/AllKallel/RegistrationSystem/blob/main/src/Registration/RegistrationMongoApp.java
 - Se quiser, pode colocar um **banner visual** no topo (feito no Canva ou Figma) para dar identidade ao perfil.
 
 
