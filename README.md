@@ -32,6 +32,13 @@ Atualmente continua estudando **Java** e explorando o ecossistema **Spring Boot*
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### Versionamento de Projetos
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Metodologias àgeis
+https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrum&logoColor=white
+
 ## 🌱 Em aprendizado
 - Spring Boot avançado  
 - Boas práticas de arquitetura de software
@@ -46,8 +53,10 @@ Busco contribuir em projetos **Java** e compartilhar conhecimento com a comunida
 
 ---
 
-⭐ 
+### Projetos
+ ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
  
  **Sistema de Registro**
   https://github.com/AllKallel/RegistrationSystem/blob/main/src/Registration/RegistrationMongoApp.java
