@@ -1,12 +1,11 @@
 # 👋 Olá, eu sou Allan Ramos (@AllKallel)
 
 ## 🚀 Sobre mim
-Tenho 33 anos, sou pai do Kallel e Atualmente trabalho como Analista de Suporte Pleno. 
+Tenho 33 anos, sou pai do Kallel e atualmente atuo como Analista de Suporte Pleno.
 
-Sou apaixonado por tecnologia e desenvolvimento de software, além das possibilidades de resolução de problemas que esse mundo nos possibilita. Nem sempre foi assim, mas quando escolhi entrar no curso de Analise e Desenvolvimento de Sistemas (na instituição de ensido UNIPAC UBERLÂNDIA) uma chave virou. 
-Ainda não sou formado, mas tão logo quero fazê-lo e realmente transformar Java, no meu mundo"
+A tecnologia e o desenvolvimento de software são minhas grandes paixões, especialmente pela capacidade que oferecem de transformar ideias em soluções e resolver problemas complexos. Essa jornada nem sempre foi clara para mim, mas tudo mudou quando decidi ingressar no curso de Análise e Desenvolvimento de Sistemas na UNIPAC Uberlândia. Foi como virar uma chave: descobri um novo mundo de possibilidades.
 
-Atualmente continua estudando **Java** e explorando o ecossistema **Spring Boot**.
+Ainda não concluí a graduação, mas tenho esse objetivo bem definido e quero consolidar minha carreira mergulhando cada vez mais fundo nesse universo. Hoje, sigo estudando Java e explorando o ecossistema Spring Boot, buscando evoluir constantemente e transformar essa linguagem em parte essencial do meu dia a dia profissional.
 
 ## 💻 Tecnologias
 
@@ -48,7 +47,7 @@ Atualmente continua estudando **Java** e explorando o ecossistema **Spring Boot*
  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
  
   https://github.com/AllKallel/RegistrationSystem/blob/main/src/Registration/RegistrationMongoApp.java
-- Faz um utiliza o Java SWING para criar as interfaces visuais, java orientado a objetos para o Back-End e MongoDB como bancom de dados. Além de Git e GitHub para o versionamento do projeto.
+- Utiliza o Java SWING para criar as interfaces visuais, java orientado a objetos para o Back-End e MongoDB como bancom de dados. Além de Git e GitHub para o versionamento do projeto.
 
 
 <!---
