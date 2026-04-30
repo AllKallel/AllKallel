@@ -40,6 +40,14 @@ Ainda não concluí a graduação, mas tenho esse objetivo bem definido e quero 
 
 ### Projetos
 
+**Curso JAVA DEVDOJO**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+https://github.com/AllKallel/CursoJava/blob/master/README.md
+- Curso java com exercícios práticos desde o nivel zero até o intermediário. 
+
+
 **Sistema de Registro**
 
  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
